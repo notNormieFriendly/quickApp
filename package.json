@@ -1,0 +1,10 @@
+{
+  "name": "quickApp",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "~1.4.2",
+    "express": "^4.16.2",
+    "method-override": "~2.0.2",
+    "mongoose": "~3.8.0"
+  }
+}
